@@ -1,0 +1,17 @@
+{
+  "name": "angular-template",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Angie Smith <avksmit2@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/avksmit2/leapYear",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
