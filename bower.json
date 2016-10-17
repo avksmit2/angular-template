@@ -1,12 +1,12 @@
 {
-  "name": "angular-template",
-  "description": "",
+  "name": "angular-tasks",
+  "description": "stores tasks using typescript and Angular 2",
   "main": "gulpfile.js",
   "authors": [
     "Angie Smith <avksmit2@gmail.com>"
   ],
-  "license": "ISC",
-  "homepage": "https://github.com/avksmit2/leapYear",
+  "license": "MIT",
+  "homepage": "https://github.com/avksmit2/angular-tasks.git",
   "ignore": [
     "**/.*",
     "node_modules",

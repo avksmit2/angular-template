@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "angular-tasks",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
@@ -12,7 +12,7 @@
     "typings": "typings"
   },
   "keywords": [],
-  "author": "",
+  "author": "Angie Smith",
   "licenses": [
     {
       "type": "MIT",
@@ -61,5 +61,5 @@
   },
   "repository": {},
   "main": "gulpfile.js",
-  "license": "ISC"
+  "license": "MIT"
 }
