@@ -20,10 +20,11 @@ _ _
 ## Setup/Installation Requirements
 
 * Clone the directory "js-github-user" in a command line.
-* Run "npm init", then "npm install" in the command line.
-* Run "bower init", then "bower install" in the command line.
-* Type "gulp build" and then "gulp serve" in the command line.
-* Go to the webpage that opens.
+* Run "npm install" in the command line.
+* Run "bower install" in the command line.
+* Run "gulp build" in the command line.
+* Run "gulp serve" in the command line.
+* Go to the webpage that opens. You can also open the index.html file in a web browser instead of using gulp serve.
 
 ## Known Bugs
 
@@ -35,13 +36,12 @@ If there are any issues, questions or ideas regarding this application, contact 
 
 ## Technologies Used
 
-_Html
-CSS
+_CSS
+SASS
 Bootstrap
 Node.js
 gulp
 Bower
-SASS
 TypeScript
 Angular 2_
 
